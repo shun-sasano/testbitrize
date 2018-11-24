@@ -27,6 +27,10 @@ class TestBitriseTests: XCTestCase {
     func testReturnTrue() {
         XCTAssert(returnTrue())
     }
+    
+    func testReturnText() {
+        XCTAssertEqual(returnText(), "testBitrise")
+    }
 
     func testPerformanceExample() {
         // This is an example of a performance test case.
