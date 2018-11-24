@@ -29,7 +29,7 @@ class TestBitriseTests: XCTestCase {
     }
     
     func testReturnText() {
-        XCTAssertEqual(returnText(), "testbit")
+        XCTAssertEqual(returnText(), "testBitrise")
     }
 
     func testPerformanceExample() {
