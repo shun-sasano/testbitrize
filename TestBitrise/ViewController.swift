@@ -18,3 +18,10 @@ class ViewController: UIViewController {
 
 }
 
+class Otameshi {
+    
+}
+func returnTrue() -> Bool {
+    return true
+}
+
