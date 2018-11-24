@@ -25,3 +25,7 @@ func returnTrue() -> Bool {
     return true
 }
 
+func returnText() -> String {
+    return "testBitrise"
+}
+
